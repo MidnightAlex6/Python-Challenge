@@ -5,7 +5,7 @@
 ![revenue-per-lead](https://user-images.githubusercontent.com/126301312/228120089-8f2420f2-6bde-4160-9d20-4330137548b2.png)
 
 
-In this Challenge, I created a Python script to analyze the financial records of a company using the financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
+  In this Challenge, I created a Python script to analyze the financial records of a company using the financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 I created a Python script that analyzes the records to calculate each of the following values:
 
 •	The total number of months included in the dataset
@@ -29,7 +29,7 @@ In addition, my final script should both print the analysis to the terminal and 
 ![Vote_counting](https://user-images.githubusercontent.com/126301312/228120112-8dbb6414-4e65-433f-b79a-2a9e933779c1.png)
 
 
-In this Challenge, I was tasked with helping a small, rural town modernize its vote-counting process.
+  In this Challenge, I was tasked with helping a small, rural town modernize its vote-counting process.
 I was given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". I created a Python script that analyzes the votes and calculates each of the following values:
 
 •	The total number of votes cast
