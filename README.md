@@ -1,6 +1,6 @@
 # Python-Challenge
 
-PyBank Instructions
+# PyBank
 
 In this Challenge, I created a Python script to analyze the financial records of a company using the financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 I created a Python script that analyzes the records to calculate each of the following values:
@@ -20,7 +20,7 @@ My Final Analysis Come out to this:
 
 In addition, my final script should both print the analysis to the terminal and export a text file with the results.
 
-PyPoll Instructions
+# PyPoll Instructions
 
 In this Challenge, I was tasked with helping a small, rural town modernize its vote-counting process.
 I was given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". I created a Python script that analyzes the votes and calculates each of the following values:
