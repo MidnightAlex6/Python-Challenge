@@ -19,6 +19,7 @@ I created a Python script that analyzes the records to calculate each of the fol
 •	The greatest decrease in profits (date and amount) over the entire period
 
 My Final Analysis Come out to this:
+
 ![image](https://user-images.githubusercontent.com/126301312/228118876-761c2d06-0703-4053-8353-5f0ae26641e7.png)
 
 In addition, my final script should both print the analysis to the terminal and export a text file with the results.
