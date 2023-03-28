@@ -39,3 +39,5 @@ My analysis should align with the following results:
 
 ![image](https://user-images.githubusercontent.com/126301312/228119472-fde62787-5c98-43f9-9c5f-eac97b411bb9.png)
 
+In addition, my final script should both print the analysis to the terminal and export a text file with the results.
+
