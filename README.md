@@ -9,5 +9,11 @@ I created a Python script that analyzes the records to calculate each of the fol
 •	The greatest increase in profits (date and amount) over the entire period
 •	The greatest decrease in profits (date and amount) over the entire period
 
-
-![image](https://user-images.githubusercontent.com/126301312/228118668-a40fba13-81e6-4522-8d42-45460414dbe6.png)
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: $22564198
+Average Change: $-8311.11
+Greatest Increase in Profits: Aug-16 ($1862002)
+Greatest Decrease in Profits: Feb-14 ($-1825558)
+![image](https://user-images.githubusercontent.com/126301312/228118876-761c2d06-0703-4053-8353-5f0ae26641e7.png)
